@@ -4,7 +4,6 @@ define category domainblock
   cnn.com
   indiatoday.in
 end
-
 define category domainallow
   mail.google.com
   drive.google.com
