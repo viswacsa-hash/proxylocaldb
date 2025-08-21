@@ -1,0 +1,12 @@
+define category domainblock
+  bbc.com
+  bbc.co.uk
+  cnn.com
+  indiatoday.in
+end
+
+define category domainallow
+  mail.google.com
+  drive.google.com
+  777.com
+end
