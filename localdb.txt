@@ -1,6 +1,6 @@
 define category domainblock
-  indiatoday.in
+  777.com
 end
 define category domainallow
-  777.com
+  indiatoday.in
 end
