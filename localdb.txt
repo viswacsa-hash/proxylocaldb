@@ -5,7 +5,6 @@ define category domainblock
   indiatoday.in
 end
 define category domainallow
-  indiatoday.in
   broadridge.es.beyondtrustcloud.com
   broadridge.ps.beyondtrustcloud.com
 end
