@@ -2,6 +2,7 @@ define category domainblock
   777.com
   facebook.com
   cnn.com
+  indiatoday.in
 end
 define category domainallow
   indiatoday.in
