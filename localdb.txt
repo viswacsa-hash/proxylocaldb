@@ -1,10 +1,9 @@
 define category domainblock
   777.com
-  facebook.com
-  cnn.com
-  indiatoday.in
+  example.com
 end
 define category domainallow
   broadridge.es.beyondtrustcloud.com
   broadridge.ps.beyondtrustcloud.com
+  
 end
