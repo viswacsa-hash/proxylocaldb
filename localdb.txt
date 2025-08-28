@@ -5,5 +5,4 @@ end
 define category domainallow
   broadridge.es.beyondtrustcloud.com
   broadridge.ps.beyondtrustcloud.com
-  
 end
