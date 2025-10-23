@@ -12,7 +12,8 @@ public class DLPTestFakeCC {
         for (String card : fakeCards) {
             System.out.println("Processing fake card: " + card);
         }
- 
+ Credit card numbers
+     CCN
         System.out.println("DLP test complete — no real data used.");
     }
 }
