@@ -1,6 +1,8 @@
 define category domainblock
   777.com
   example.com
+  indiatoday.in
+  mxtoolbox.com
 end
 define category domainallow
   broadridge.es.beyondtrustcloud.com
