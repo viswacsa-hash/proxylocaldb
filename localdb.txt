@@ -8,3 +8,7 @@ define category domainallow
   broadridge.es.beyondtrustcloud.com
   broadridge.ps.beyondtrustcloud.com
 end
+define category domainsslbypass
+  brhelix.onbmc.com
+  brhelix-smartit.onbmc.com
+end
